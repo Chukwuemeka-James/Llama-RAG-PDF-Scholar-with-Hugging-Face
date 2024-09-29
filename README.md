@@ -4,7 +4,7 @@ Here's a comprehensive `README.md` file for your Streamlit app using Groq, Huggi
 
 # Llama-RAG PDF Scholar with Hugging Face
 
-Welcome to **Llama-RAG PDF Scholar**, an AI-powered tool designed for efficient document-based question answering. This project leverages **LangChain**, **Groq API**, and **Hugging Face Embeddings** to enable interactive querying over research papers in PDF format. By embedding and indexing research papers, the app allows users to ask questions and receive context-based answers from the ingested documents.
+**Llama-RAG PDF Scholar** is an AI-powered tool designed for efficient document-based question answering. This project leverages **LangChain**, **Groq API**, and **Hugging Face Embeddings** to enable interactive querying over research papers in PDF format. By embedding and indexing research papers, the app allows users to ask questions and receive context-based answers from the ingested documents.
 
 ## Features
 
