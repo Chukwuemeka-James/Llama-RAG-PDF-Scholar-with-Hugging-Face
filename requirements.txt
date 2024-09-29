@@ -1,0 +1,14 @@
+streamlit
+langchain
+faiss-cpu
+openai
+pypdf
+groq-api
+python-dotenv
+huggingface-hub
+transformers
+torch
+llama-cpp-python
+tqdm
+pandas
+numpy
